@@ -1,0 +1,35 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+env/
+venv/
+build/
+dist/
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+*.sqlite3
+
+# VS Code settings
+.vscode/
+
+# Django migrations
+*/migrations/*
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Ignore byte-compiled and optimized files
+*.pyc
+*.pyo
+*.pyd
+
